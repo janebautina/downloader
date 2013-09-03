@@ -1,4 +1,4 @@
-package com.janebautina;
+package com.janebautina.downloader;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
